@@ -1,0 +1,150 @@
+f:\CVR-10_VB.Net\CVR-10\obj\Debug\Interop.ADOX.dll
+f:\CVR-10_VB.Net\CVR-10\obj\Debug\Interop.VBIDE.dll
+f:\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.vbproj.ResolveComReference.cache
+f:\CVR-10_VB.Net\CVR-10\bin\Debug\CVR-10.exe
+f:\CVR-10_VB.Net\CVR-10\bin\Debug\CVR-10.pdb
+f:\CVR-10_VB.Net\CVR-10\bin\Debug\CVR-10.xml
+f:\CVR-10_VB.Net\CVR-10\bin\Debug\Interop.ADOX.dll
+f:\CVR-10_VB.Net\CVR-10\bin\Debug\Interop.VBIDE.dll
+f:\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmAbout.resources
+f:\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmCalculation.resources
+f:\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmMeasurement.resources
+f:\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmPreview.resources
+f:\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmStart.resources
+f:\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.KG.resources
+f:\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.KSP.resources
+f:\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.Resources.resources
+f:\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.vbproj.GenerateResource.Cache
+f:\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.exe
+f:\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.xml
+f:\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.pdb
+f:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\Interop.ADOX.dll
+f:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\Interop.VBIDE.dll
+f:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.vbproj.ResolveComReference.cache
+f:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.exe
+f:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.xml
+f:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.pdb
+f:\_НФИ_\CVR-10_VB.Net\CVR-10\bin\Debug\CVR-10.exe
+f:\_НФИ_\CVR-10_VB.Net\CVR-10\bin\Debug\CVR-10.pdb
+f:\_НФИ_\CVR-10_VB.Net\CVR-10\bin\Debug\CVR-10.xml
+f:\_НФИ_\CVR-10_VB.Net\CVR-10\bin\Debug\Interop.ADOX.dll
+f:\_НФИ_\CVR-10_VB.Net\CVR-10\bin\Debug\Interop.VBIDE.dll
+f:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmAbout.resources
+f:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmCalculation.resources
+f:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmMeasurement.resources
+f:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmPreview.resources
+f:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmStart.resources
+f:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.KG.resources
+f:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.KSP.resources
+f:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.Resources.resources
+f:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.vbproj.GenerateResource.Cache
+D:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\Interop.ADOX.dll
+D:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\Interop.VBIDE.dll
+D:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.vbproj.ResolveComReference.cache
+D:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.exe
+D:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.xml
+D:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.pdb
+D:\_НФИ_\CVR-10_VB.Net\CVR-10\bin\Debug\CVR-10.exe
+D:\_НФИ_\CVR-10_VB.Net\CVR-10\bin\Debug\CVR-10.pdb
+D:\_НФИ_\CVR-10_VB.Net\CVR-10\bin\Debug\CVR-10.xml
+D:\_НФИ_\CVR-10_VB.Net\CVR-10\bin\Debug\Interop.ADOX.dll
+D:\_НФИ_\CVR-10_VB.Net\CVR-10\bin\Debug\Interop.VBIDE.dll
+D:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\ResolveAssemblyReference.cache
+D:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmAbout.resources
+D:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmCalculation.resources
+D:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmMeasurement.resources
+D:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmPreview.resources
+D:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmStart.resources
+D:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.KG.resources
+D:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.KSP.resources
+D:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.Resources.resources
+D:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\GenerateResource-ResGen.write.1.tlog
+H:\Work\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\Interop.ADOX.dll
+H:\Work\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\Interop.VBIDE.dll
+H:\Work\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.vbproj.ResolveComReference.cache
+H:\Work\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.exe
+H:\Work\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.xml
+H:\Work\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.pdb
+H:\Work\_НФИ_\CVR-10_VB.Net\CVR-10\bin\Debug\CVR-10.exe
+H:\Work\_НФИ_\CVR-10_VB.Net\CVR-10\bin\Debug\CVR-10.pdb
+H:\Work\_НФИ_\CVR-10_VB.Net\CVR-10\bin\Debug\CVR-10.xml
+H:\Work\_НФИ_\CVR-10_VB.Net\CVR-10\bin\Debug\Interop.ADOX.dll
+H:\Work\_НФИ_\CVR-10_VB.Net\CVR-10\bin\Debug\Interop.VBIDE.dll
+H:\Work\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmAbout.resources
+H:\Work\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmCalculation.resources
+H:\Work\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmMeasurement.resources
+H:\Work\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmPreview.resources
+H:\Work\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmStart.resources
+H:\Work\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.KG.resources
+H:\Work\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.KSP.resources
+H:\Work\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.Resources.resources
+H:\Work\_НФИ_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.vbproj.GenerateResource.Cache
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\CVR-10_VB.Net\CVR-10\obj\Debug\Interop.ADOX.dll
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\CVR-10_VB.Net\CVR-10\obj\Debug\Interop.VBIDE.dll
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.vbproj.ResolveComReference.cache
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.exe
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.xml
+D:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.pdb
+g:\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\Interop.ADOX.dll
+g:\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\Interop.VBIDE.dll
+g:\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.vbproj.ResolveComReference.cache
+g:\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.exe
+g:\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.xml
+g:\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.pdb
+g:\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\bin\Debug\CVR-10.exe
+g:\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\bin\Debug\CVR-10.pdb
+g:\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\bin\Debug\CVR-10.xml
+g:\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\bin\Debug\Interop.ADOX.dll
+g:\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\bin\Debug\Interop.VBIDE.dll
+g:\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmAbout.resources
+g:\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmCalculation.resources
+g:\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmMeasurement.resources
+g:\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmPreview.resources
+g:\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmStart.resources
+g:\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.KG.resources
+g:\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.KSP.resources
+g:\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.Resources.resources
+g:\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.vbproj.GenerateResource.Cache
+D:\#_f2\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\Interop.ADOX.dll
+D:\#_f2\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\Interop.VBIDE.dll
+D:\#_f2\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.vbproj.ResolveComReference.cache
+D:\#_f2\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.exe
+D:\#_f2\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.xml
+D:\#_f2\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.pdb
+D:\#_f2\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\bin\Debug\CVR-10.exe
+D:\#_f2\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\bin\Debug\CVR-10.pdb
+D:\#_f2\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\bin\Debug\CVR-10.xml
+D:\#_f2\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\bin\Debug\Interop.ADOX.dll
+D:\#_f2\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\bin\Debug\Interop.VBIDE.dll
+D:\#_f2\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmAbout.resources
+D:\#_f2\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmCalculation.resources
+D:\#_f2\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmMeasurement.resources
+D:\#_f2\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmPreview.resources
+D:\#_f2\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmStart.resources
+D:\#_f2\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.KG.resources
+D:\#_f2\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.KSP.resources
+D:\#_f2\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.Resources.resources
+D:\#_f2\08. PGP\_Командировки_\_SOFT_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.vbproj.GenerateResource.Cache
+C:\_WORK_\CVR-10_VB.Net\CVR-10\bin\Debug\CVR-10.exe
+C:\_WORK_\CVR-10_VB.Net\CVR-10\bin\Debug\CVR-10.pdb
+C:\_WORK_\CVR-10_VB.Net\CVR-10\bin\Debug\CVR-10.xml
+C:\_WORK_\CVR-10_VB.Net\CVR-10\bin\Debug\Interop.ADOX.dll
+C:\_WORK_\CVR-10_VB.Net\CVR-10\bin\Debug\Interop.VBIDE.dll
+C:\_WORK_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.vbproj.AssemblyReference.cache
+C:\_WORK_\CVR-10_VB.Net\CVR-10\obj\Debug\Interop.ADOX.dll
+C:\_WORK_\CVR-10_VB.Net\CVR-10\obj\Debug\Interop.VBIDE.dll
+C:\_WORK_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.vbproj.ResolveComReference.cache
+C:\_WORK_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmAbout.resources
+C:\_WORK_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmCalculation.resources
+C:\_WORK_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmMeasurement.resources
+C:\_WORK_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmPreview.resources
+C:\_WORK_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.frmStart.resources
+C:\_WORK_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.KG.resources
+C:\_WORK_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.KSP.resources
+C:\_WORK_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR_10.Resources.resources
+C:\_WORK_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.vbproj.GenerateResource.cache
+C:\_WORK_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.vbproj.CoreCompileInputs.cache
+C:\_WORK_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.exe
+C:\_WORK_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.xml
+C:\_WORK_\CVR-10_VB.Net\CVR-10\obj\Debug\CVR-10.pdb

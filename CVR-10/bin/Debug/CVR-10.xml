@@ -1,0 +1,106 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CVR-10
+</name>
+</assembly>
+<members>
+<member name="T:CVR_10.My.Resources.Resources">
+<summary>
+  Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+</summary>
+</member>
+<member name="P:CVR_10.My.Resources.Resources.ResourceManager">
+<summary>
+  Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+</summary>
+</member>
+<member name="P:CVR_10.My.Resources.Resources.Culture">
+<summary>
+  Перезаписывает свойство CurrentUICulture текущего потока для всех
+  обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+</summary>
+</member>
+<member name="P:CVR_10.clsDataWorks.PathToWorkDb">
+ <summary>
+ Свойство устанавливает значение локальной переменной strPathToWorkDb
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:CVR_10.clsDataWorks.prInitSystemDataSet">
+ <summary>
+ Функция инициирует системный DataSet
+ </summary>
+ <returns>true - DataSet успешно создан</returns>
+ <remarks></remarks>
+</member>
+<member name="M:CVR_10.clsDataWorks.prCreateNewDb">
+ <summary>
+ Функция создает новую рабочую БД Access по адресу, хранящемуся в strWorkPath
+ </summary>
+ <returns>true/false - БД создана успешно/Не удалось создать БД</returns>
+ <remarks></remarks>
+</member>
+<member name="M:CVR_10.clsDataWorks.prInitWorkDataSet">
+ <summary>
+ Функция инициирует рабочий DataSet
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:CVR_10.clsDataWorks.prAddContinuousDataToWorkDataSet">
+ <summary>
+ Функция добавляет в рабочий DataSet таблицу ContinuousData
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:CVR_10.clsDataWorks.UpdateWorkTable(System.String)">
+ <summary>
+ Функция вносит изменения в талицу рабочей БД Access
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:CVR_10.clsDataWorks.UpdateSystemTable(System.String)">
+ <summary>
+ Функция вносит изменения в талицу системной БД Access
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:CVR_10.clsDataWorks.ExecuteNonQueryToWorkDb(System.String)">
+ <summary>
+ Запросы к рабочей БД не возвращаюшие записей 
+ </summary>
+ <param name="str">SQL запрос к БД</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:CVR_10.clsDataWorks.ExecuteNonQueryToSysDb(System.String)">
+ <summary>
+ Запросы к системной БД не возвращаюшие записей 
+ </summary>
+ <param name="str">SQL запрос к БД</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:CVR_10.frmStart.cmdMeasurement_Click(System.Object,System.EventArgs)">
+ <summary>
+ Открывает форму проведения измерений
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:CVR_10.frmStart.cmdCalculation_Click(System.Object,System.EventArgs)">
+ <summary>
+ Открывает форму обработки результатов эксперимента
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+</members>
+</doc>
